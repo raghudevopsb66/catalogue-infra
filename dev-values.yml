@@ -1,3 +1,5 @@
 componentName: catalogue
 appPort: 8080
 appVersion: 3.0.2
+externalSecret:
+  enabled: true
